@@ -1,0 +1,12 @@
+info:
+  name: springboot-spock-sample
+  version: 0-SNAPSHOT
+
+server:
+  port: 9090
+
+spring:
+  application:
+    name: springboot-spock-test
+  profiles:
+    active: local
