@@ -1,6 +1,8 @@
 # springboot-spock
 
-Sample project to help configure spring-boot with the amazing *spock framework* that makes so easy and intuitive how to write tests. In this simple POC I used Java 16.
+Sample project to help configuring spring-boot with the amazing *Spock framework* that makes so easy and intuitive how to write tests. 
+
+In this simple POC I used Java 16 and I wrote all code in Groovy. It looks so clean.
 
 To build and execute Unit Tests:
 ```
